@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerPlaced
+  - PlacedProp
+  - Wall
+  - Floor
+  - Customer
+  - Pizzatool
+  - Pizza
+  - Man
+  - Woman
+  - Roller
+  - Dough1
+  - Ladle
+  - Dough2
+  - Grater
+  - Dough3
+  - PlacedLight
+  - PlacedDoor
+  - GameTopping
+  - CutTopping
+  - Dough4
+  - Grass
+  - Dough5
+  - PlacedAnimatronic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - IgnoreFirstPerson
+  - ildOverlayay
+  - ildOverlayayTOP
+  - Props
+  - Walls
+  - Customer
+  - Pizza
+  - IgnoreCrosshair3D
+  - DialogsOverlay
+  - FirstPersonOnly
+  - Tools
+  - Doors
+  - Animatronics
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particles
+    uniqueID: 2870700307
+    locked: 0
