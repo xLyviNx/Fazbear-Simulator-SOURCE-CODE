@@ -1,0 +1,38 @@
+CUSTOM SOURCE CODE & ASSET LICENSE (NON-COMMERCIAL)
+
+Copyright (c) 2022-2026 LyviN and the Fazbear Simulator Team.
+All rights to original Fazbear Simulator code, original 3D models, textures, and custom game mechanics are reserved to their respective creators.
+
+Five Nights at Freddy's and related trademarks, concepts, and IP belong entirely to Scott Cawthon. This is an unofficial, non-profit fan-game project.
+
+Permission is hereby granted to view, modify and fork the project, subject to the following conditions:
+
+1. FULL ATTRIBUTION & CREDITS REQUIRED:
+   Any derivative project, port, or fork MUST clearly and visibly include full credits to the original team in the game description, menus, and anywhere credits are displayed:
+   - LyviN (Leader, Programming, 3D Models, SFX)
+   - Igrisa (2D Art, 3D Models)
+   - kampe1234 (Programming, Testing, 3D Models)
+   - Benkher & poazdev (Music / OST)
+   - GIOVyy (Testing)
+
+2. NO UNMODIFIED 1:1 REUPLOADS / LOW-EFFORT SLOP:
+   Direct 1:1 reuploads without significant gameplay additions or overhauls are not allowed. Swapping a texture, tweaking UI values, or recompiling as-is does NOT count as a meaningful contribution. Do not pollute GameJolt or other platforms with zero-effort clones.
+
+3. INDEPENDENT BACKEND & NO ORIGINAL API DAMAGE:
+   You are strictly prohibited from connecting forks, decompiled builds, or mods to the original Fazbear Simulator GameJolt Game ID, DataStore keys, Leaderboards, or Discord webhooks. 
+   You must plug in your own API keys, DataStore entries, and App IDs. Using this source code to reverse-engineer, cheat, exploit, flood, manipulate, or overwrite live player data of the original Fazbear Simulator game is strictly prohibited.
+
+4. RESTRICTION ON GENERATIVE AI CONTENT:
+   The inclusion or addition of generative AI artistic assets (including but not limited to AI-generated images, 2D art, textures, 3D models, or AI audio/voice synthesis) into derived builds is not permitted. AI-assisted programming is allowed, but not recommended without user's contribution.
+
+5. NON-COMMERCIAL & NO MONETIZATION / STANDALONE COMMERCIAL REBRANDING:
+   - You are strictly prohibited from adapting, reskinning, or repurposing this codebase, mechanics, or assets into an original/standalone commercial game. This includes Roblox clones of any kind.
+   - No direct monetization of ANY kind is permitted. This includes, but is not limited to: selling copies (e.g. on Steam, itch.io, Google Play), paywalls, microtransactions, paid early access, ads, or locking builds behind subscriptions. Derivative projects must remain 100% free and non-profit.
+   - Voluntary donations (such as a general Patreon or Ko-fi) are not strictly forbidden by this license. However, neither LyviN nor any original team member assumes any responsibility or legal liability for third-party donation channels.
+   - Absolutely no NSFW, pornographic, or sexually explicit content is allowed. Horror elements and gore are acceptable only if they are contextually justified and preceded by a clear, prominent content warning for players.
+   
+
+6. NO AFFILIATION:
+   Neither LyviN nor the original developers bear any responsibility for third-party uploads, modded clients, or actions taken by distribution platforms (such as GameJolt).
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
