@@ -50,7 +50,10 @@ SFX provided via mixkit.co:
 - mixkit-metal-medieval-construction-818
 
 ---
+## 4. Ending notes from the Developer
+Please be aware the quality of this code may be bad. Some things are beyond regular stupidity :)
+I wish you good luck :)
 
-## 4. Legal Disclaimer
+## 5. Legal Disclaimer
 
 Five Nights at Freddy's and all related concepts, characters, and trademarks belong to Scott Cawthon. This is a non-commercial, non-profit fan project. The original creators are not affiliated with Scott Cawthon, GameJolt, or any third-party revivals.
