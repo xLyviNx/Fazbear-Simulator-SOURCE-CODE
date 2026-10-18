@@ -7,17 +7,18 @@ This is the full Unity project source code for **Fazbear Simulator**, an abandon
 
 ---
 
-## 1. Setup & Backend
+## 1. Engine & Setup Requirements
 
-The official game credentials, keys, and hooks have been removed from this repository. The project will not function correctly until you configure your own backend infrastructure.
+* **Engine Version:** Unity 2021.3.7f1
+* Official production credentials, webhooks, and GameJolt API keys have been removed from this repository. The project **will not function out-of-the-box** until you configure your own backend infrastructure.
 
 ### Global DataStore
-The game relies on GameJolt's DataStore API for item prices, version checking, and system values. 
-
-Check the `/GAMEJOLT_GLOBAL_DATASTORE` folder in this repository. You will need to replicate these global key-value pairs inside your own GameJolt DataStore or rewrite and change the system.
+The game relies on GameJolt's DataStore API for item prices, version checking, and core balance values.
+* Review the `/GAMEJOLT_GLOBAL_DATASTORE` folder in this repository.
+* You must replicate these global key-value pairs inside your own GameJolt game DataStore, or rewrite the system to read from local files/custom servers.
 
 ### Missing IDs & Constants
-Several scripts contain placeholder IDs, leaderboard keys, trophy identifiers, Discord App IDs, and webhook constants marked for setup. You will need to search the codebase and plug in your own credentials before building.
+Several scripts contain placeholder IDs, leaderboard keys, trophy identifiers, Discord Application IDs, and webhook constants. Search the codebase for placeholder strings before attempting to build or run the game.
 
 ---
 
