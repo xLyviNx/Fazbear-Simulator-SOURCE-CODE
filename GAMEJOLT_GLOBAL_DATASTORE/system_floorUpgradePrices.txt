@@ -1,0 +1,4 @@
+color:6
+pattern_1:8
+pattern_2:12
+tilescolor:5

@@ -1,0 +1,3 @@
+lamp_classicbulb:30
+lamp_ceilingflat:50
+lamp_wfnaf:90

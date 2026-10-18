@@ -1,0 +1,2 @@
+anm_freddy1:5000
+anm_bonnie1:5000

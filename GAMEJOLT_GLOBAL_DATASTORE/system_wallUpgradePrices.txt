@@ -1,0 +1,8 @@
+stripe:14
+tiles:8
+paint_1:5
+stripecolor:5
+stripebordercolor:2
+tilecolor:6
+maincolor:8
+stripeoffset:2

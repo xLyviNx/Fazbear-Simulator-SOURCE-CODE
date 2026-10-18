@@ -1,0 +1,3 @@
+color:15
+intensity:7
+range:5
